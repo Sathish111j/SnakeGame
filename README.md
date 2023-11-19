@@ -1,7 +1,7 @@
 # Snake Game in Python
 
 ## Description
-This is a simple Snake Game implemented in Python using the Pygame library. The classic Snake Game where the player controls a snake that must eat food to grow while avoiding collisions with itself and the boundaries of the game.
+This is a simple Snake Game implemented in Python using the simple libraries. The classic Snake Game where the player controls a snake that must eat food to grow while avoiding collisions with itself and the boundaries of the game.
 
 ![Snake Game Demo](demo.gif)
 
